@@ -7,7 +7,7 @@ This project is a complete E-Commerce shopping cart system, designed for users t
 
 You can view the live frontend at the following URL:
 
-[Frontend Live Demo]((https://egistify-fe.vercel.app/))
+[Frontend Live Demo][(https://egistify-fe.vercel.app/)]
 
 ## Admin Panel
 
