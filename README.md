@@ -1,19 +1,17 @@
 # Description
 
-This project is a complete E-Commerce shopping cart system, designed for users to browse products, manage their cart, and place orders. It also includes an admin portal to manage users, products, and orders efficiently.
+This project is a complete E-Commerce shopping cart system, designed for users to browse products, manage their cart, and place orders. 
 
 ## Features
 ## Live Frontend
 
 You can view the live frontend at the following URL:
 
-[Frontend Live Demo](https://gadhaniassignment.vercel.app/)
+[Frontend Live Demo]((https://egistify-fe.vercel.app/))
 
 ## Admin Panel
 
-You can access the admin panel at the following URL:
 
-[Admin Login](https://gadhaniassignment.vercel.app/admin-signin)
 ### Frontend Features (User Portal):
 
 #### User Signup/Signin:
@@ -28,26 +26,6 @@ You can access the admin panel at the following URL:
 - View items in the cart.
 - Remove items from the cart.
 
-#### Order Summary:
-- Displays the total price, discount, and final amount.
-
-#### Order Placement:
-- Users can review their cart and place orders.
-
-### Admin Portal Features:
-
-#### Dashboard:
-- Overview of platform metrics ( total users, products, orders).
-
-#### User Management:
-- View all registered users.
-- Track user login activity and manage user data.
-
-#### Product Management:
-- CRUD operations (Create, Read, Update, Delete) for products.
-
-#### Order Management:
-- View all orders placed by users.
 
 
 ## Technologies Used
